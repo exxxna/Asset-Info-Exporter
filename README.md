@@ -29,5 +29,7 @@ X: https://x.com/exxxna
 SHOP: aVentuRine
 
 X: https://x.com/aVentuRine_jp
+
 Discord: https://discord.gg/pPMVGUR7PF
+
 BOOTH: https://aventurine-jp.booth.pm/
